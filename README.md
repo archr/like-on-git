@@ -6,3 +6,4 @@
 - [aholachek/mobile-first-animation: Performant gesture-driven animation on the mobile web](https://github.com/aholachek/mobile-first-animation) 
 - [The Case for Atomic / Utility-First CSS](https://johnpolacek.github.io/the-case-for-atomic-css/) 
 - [By The Numbers: A Year and Half with Atomic CSS - John Polacek - Medium](https://medium.com/@johnpolacek/by-the-numbers-a-year-and-half-with-atomic-css-39d75b1263b4) 
+- [Expressive CSS](https://johnpolacek.github.io/expressive-css/) 
