@@ -8,3 +8,4 @@
 - [By The Numbers: A Year and Half with Atomic CSS - John Polacek - Medium](https://medium.com/@johnpolacek/by-the-numbers-a-year-and-half-with-atomic-css-39d75b1263b4) 
 - [Expressive CSS](https://johnpolacek.github.io/expressive-css/) 
 - [Tailwind CSS - A Utility-First CSS Framework for Rapidly Building Custom Designs](https://tailwindcss.com/) 
+- [Visual Studio Code Key Bindings](https://code.visualstudio.com/docs/getstarted/keybindings#_basic-editing) 
