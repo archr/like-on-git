@@ -1,5 +1,8 @@
 # like-on-git
 
+
+### October 29, 2019 
+- [woutervh-/react-pan-and-zoom-hoc](https://github.com/woutervh-/react-pan-and-zoom-hoc) 
 ### October 28, 2019 
 - [seek-oss/playroom: Design with JSX, powered by your own component library.](https://github.com/seek-oss/playroom) 
 ### October 26, 2019 
