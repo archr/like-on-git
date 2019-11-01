@@ -2,6 +2,9 @@
 
 
 
+
+### October 31, 2019 
+- [rubenspgcavalcante/webpack-extension-reloader: A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers](https://github.com/rubenspgcavalcante/webpack-extension-reloader) 
 ### October 30, 2019 
 - [Urban Mattress Central Austin - 37 Photos & 145 Reviews - Mattresses - 4001 N Lamar, Austin, TX - Phone Number - Yelp](https://www.yelp.com/biz/urban-mattress-central-austin-austin-3?adjust_creative=duckduckgo&utm_campaign=yelp_feed&utm_medium=feed_v2&utm_source=duckduckgo) 
 ### October 29, 2019 
