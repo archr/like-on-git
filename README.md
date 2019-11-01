@@ -3,6 +3,9 @@
 
 
 
+
+### November 1, 2019 
+- [Faster JSON generation using PostgreSQL JSON function | BigBinary Blog](https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html) 
 ### October 31, 2019 
 - [rubenspgcavalcante/webpack-extension-reloader: A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers](https://github.com/rubenspgcavalcante/webpack-extension-reloader) 
 ### October 30, 2019 
