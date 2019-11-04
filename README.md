@@ -4,6 +4,9 @@
 
 
 
+
+### November 4, 2019 
+- [4 Ways to Join Only The First Row in SQL](https://www.periscopedata.com/blog/4-ways-to-join-only-the-first-row-in-sql) 
 ### November 1, 2019 
 - [Faster JSON generation using PostgreSQL JSON function | BigBinary Blog](https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html) 
 - [Returning an array of JSON objects in PostgreSQL](https://foxypanda.me/returning-an-array-of-json-objects-in-postgresql/) 
