@@ -13,6 +13,7 @@
 - [PostgreSQL: Documentation: 7.2: Time Zones](https://www.postgresql.org/docs/7.2/timezones.html) 
 - [How to Convert UTC to Local Time Zone in PostgreSQL | PopSQL](https://popsql.com/learn-sql/postgresql/how-to-convert-utc-to-local-time-zone-in-postgresql/) 
 - [postgis - How to find out whether a lat/long position resides within a Polygon? - Geographic Information Systems Stack Exchange](https://gis.stackexchange.com/questions/51869/how-to-find-out-whether-a-lat-long-position-resides-within-a-polygon) 
+- [PostgreSQL/PostGIS II: Geometry Types and Coordinate Systems](http://strimas.com/spatial/r-postgis-2/) 
 ### December 2, 2019 
 - [mmatczuk/go-http-tunnel: Fast and secure tunnels over HTTP/2](https://github.com/mmatczuk/go-http-tunnel) 
 - [systemd - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/linux/usage/systemd.md) 
