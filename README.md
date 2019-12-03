@@ -8,6 +8,7 @@
 
 ### December 2, 2019 
 - [mmatczuk/go-http-tunnel: Fast and secure tunnels over HTTP/2](https://github.com/mmatczuk/go-http-tunnel) 
+- [systemd - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/linux/usage/systemd.md) 
 ### November 4, 2019 
 - [4 Ways to Join Only The First Row in SQL](https://www.periscopedata.com/blog/4-ways-to-join-only-the-first-row-in-sql) 
 ### November 1, 2019 
