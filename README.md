@@ -11,6 +11,7 @@
 - [Running your Node & Express apps forever, no matter what, with Systemd and PM2](https://www.terlici.com/2015/06/20/running-node-forever.html) 
 - [systemd - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/linux/usage/systemd.md) 
 - [PostgreSQL: Documentation: 7.2: Time Zones](https://www.postgresql.org/docs/7.2/timezones.html) 
+- [How to Convert UTC to Local Time Zone in PostgreSQL | PopSQL](https://popsql.com/learn-sql/postgresql/how-to-convert-utc-to-local-time-zone-in-postgresql/) 
 ### December 2, 2019 
 - [mmatczuk/go-http-tunnel: Fast and secure tunnels over HTTP/2](https://github.com/mmatczuk/go-http-tunnel) 
 - [systemd - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/linux/usage/systemd.md) 
