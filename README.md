@@ -7,6 +7,9 @@
 
 
 
+
+### December 6, 2019 
+- [Machine Learning Christmas](https://ml.christmas/) 
 ### December 3, 2019 
 - [Running your Node & Express apps forever, no matter what, with Systemd and PM2](https://www.terlici.com/2015/06/20/running-node-forever.html) 
 - [systemd - Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/linux/usage/systemd.md) 
