@@ -8,6 +8,9 @@
 
 
 
+
+### December 10, 2019 
+- [Introduction to Machine Learning  |  Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=1) 
 ### December 6, 2019 
 - [Machine Learning Christmas](https://ml.christmas/) 
 ### December 3, 2019 
