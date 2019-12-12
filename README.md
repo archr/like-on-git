@@ -9,6 +9,9 @@
 
 
 
+
+### December 12, 2019 
+- [Sizzy](https://sizzy.app/) 
 ### December 10, 2019 
 - [Introduction to Machine Learning  |  Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=1) 
 - [The Best Science Books of 2019 | Five Books Expert Recommendations](https://fivebooks.com/best-books/science-2019-barbara-kiser/) 
