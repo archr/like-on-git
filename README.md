@@ -10,6 +10,9 @@
 
 
 
+
+### December 21, 2019 
+- [The Best Books Of The 2010s, According To 30 Of The Decade's Debut Authors](https://www.bustle.com/p/the-best-books-of-the-2010s-according-to-30-of-the-decades-debut-authors-19433961) 
 ### December 12, 2019 
 - [Sizzy](https://sizzy.app/) 
 ### December 10, 2019 
