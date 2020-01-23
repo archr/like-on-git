@@ -12,6 +12,9 @@
 
 
 
+
+### January 23, 2020 
+- [Administrar Logs eventos de Systemd con Journalctl Linux - Solvetic](https://www.solvetic.com/tutoriales/article/4051-administrar-logs-eventos-systemd-journalctl-linux/) 
 ### January 22, 2020 
 - [Start a script on boot using systemd - Technology Blog](https://blog.skbali.com/2019/03/start-a-script-on-boot-using-systemd/) 
 ### December 21, 2019 
