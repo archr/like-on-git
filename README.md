@@ -13,6 +13,9 @@
 
 
 
+
+### January 24, 2020 
+- [Backing up and Restoring your Raspberry Pi's SD Card – The Pi Hut](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card) 
 ### January 23, 2020 
 - [Administrar Logs eventos de Systemd con Journalctl Linux - Solvetic](https://www.solvetic.com/tutoriales/article/4051-administrar-logs-eventos-systemd-journalctl-linux/) 
 ### January 22, 2020 
