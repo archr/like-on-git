@@ -14,6 +14,9 @@
 
 
 
+
+### February 8, 2020 
+- [Learn elixir in Y Minutes](https://learnxinyminutes.com/docs/elixir/) 
 ### January 24, 2020 
 - [Backing up and Restoring your Raspberry Pi's SD Card – The Pi Hut](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card) 
 ### January 23, 2020 
