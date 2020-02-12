@@ -15,6 +15,9 @@
 
 
 
+
+### February 11, 2020 
+- [PostgreSQL: Documentation: 9.1: CREATE TRIGGER](https://www.postgresql.org/docs/9.1/sql-createtrigger.html) 
 ### February 8, 2020 
 - [Learn elixir in Y Minutes](https://learnxinyminutes.com/docs/elixir/) 
 - [Elixir School](https://elixirschool.com/en/) 
